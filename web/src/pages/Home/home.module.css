@@ -1,0 +1,28 @@
+.conteiner {
+  width: 500px;
+  max-height: 1200px;
+  border: 1px solid black;
+  border-radius: 20px;
+  display: flex;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.item {
+  width: 370px;
+  height: 50px;
+  background-color: rgb(106, 121, 122);
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
