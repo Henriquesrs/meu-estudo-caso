@@ -6,7 +6,10 @@ O objetivo é construir uma solução completa com **duas aplicações** (Web e 
 
 O projeto foi totalmente criado e executado no **Visual Studio Code (VS Code)**, utilizando **React (Vite)** para o ambiente web, **React Native (Expo)** para o ambiente mobile, e **json-server** para simular uma API REST.
 
----
+Deploy da Aplicação Web
+
+A versão web do projeto está disponível no Vercel:
+👉 https://meu-estudo-caso-vzjj.vercel.app/
 
 ## 🏗️ Estrutura do Projeto
 
